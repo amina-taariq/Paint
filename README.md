@@ -1,4 +1,5 @@
 # Paint
-![image](https://user-images.githubusercontent.com/104872052/226162133-f951443d-376f-49a0-8c18-0dc3357b6480.png)
+![image](https://user-images.githubusercontent.com/104872052/226162338-45955b03-66a7-4e10-8df5-fce917adf41d.png)
+
 
 
